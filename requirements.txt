@@ -23,6 +23,7 @@ docx2txt==0.8
 ebcdic==1.1.1
 extract-msg==0.28.7
 google-search-results==2.4.1
+gunicorn==20.1.0
 idna==3.3
 IMAPClient==2.1.0
 itypes==1.2.0
@@ -61,5 +62,6 @@ tzdata==2022.1
 tzlocal==4.2
 uritemplate==4.1.1
 urllib3==1.26.9
+whitenoise==6.0.0
 xlrd==1.2.0
 XlsxWriter==3.0.3
