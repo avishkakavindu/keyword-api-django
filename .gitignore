@@ -1,0 +1,6 @@
+.env
+.idea/
+db.sqlite3
+keyword_extraction_api.zip
+media/
+venv/
