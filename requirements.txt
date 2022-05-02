@@ -37,6 +37,7 @@ olefile==0.46
 pdfminer.six==20191110
 pdfminer3==2018.12.3.0
 Pillow==9.1.0
+psycopg==3.0.12
 pycparser==2.21
 pycryptodome==3.14.1
 PyJWT==2.3.0
